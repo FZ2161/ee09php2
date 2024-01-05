@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: Verdana;
+}
+#lewy{
+    background-color: #29434e;
+    color: white;
+    text-align: center;
+    width: 70%;
+    height: 70px;
+}
+#prawy{
+    background-color: #29434e;
+    color: white;
+    width: 30%;
+    height: 70px;
+}
+
+#listaFilmyFantastyczne, #listaPolecamy{
+    background-color: #b0bec5;
+    height: 320px;
+    overflow: scroll;
+}
+
+#stopka{
+    background-color: #29434e;
+    color: white;
+    margin: 0;
+}
+a{
+    color: gray;
+    
+}
+a:hover{
+    color: lightgray;
+}
+h4{
+    text-align: center;
+    margin: 0;
+}
